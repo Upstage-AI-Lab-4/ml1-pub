@@ -119,3 +119,6 @@ September 30, 2024 ~ October 11, 2024
 
 ![alt text](./img/image-17.png)
 ![alt text](./img/image-18.png)
+
+## 6. Refernece
+[원본 GitHub Repository](https://github.com/jihwanK/upstage-ailab-ml-project)
